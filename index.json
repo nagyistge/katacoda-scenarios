@@ -1,0 +1,32 @@
+{
+    "title": "First attempt at Katacoda from Github",
+    "description": "What am I doing?",
+    "difficulty": "beginner",
+    "time": "10-15 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1",
+                "text": "step1.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "files": [
+        "app.js"
+    ],
+    "environment": {
+        "uilayout": "terminal-v1"
+    },
+    "backend": {
+        "port": 8080,
+        "imageid": "docker"
+    }
+}
