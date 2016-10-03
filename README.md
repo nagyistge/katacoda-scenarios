@@ -8,9 +8,3 @@ Visit https://www.katacoda.com/ejhifh to view and take the interactive scenarios
 Visit https://www.katacoda.com/teach/git-hosted-scenarios to learn more about creating Katacoda scenarios
 
 For an example repository, see https://www.github.com/benhall/katacoda-scenarios
-
-
-It's not working for some reason.
-
-..
-.
